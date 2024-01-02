@@ -196,11 +196,3 @@ Tools for estimating gas
 Remix
 Truffle
 Eth Gas reporter
-Support Me
-
-Your support is crucial to help me continue doing what I love - educating DeFi & Crypto users.
-
-
-Binance Referral Link
-
-Much much thanks every single one of you! Your support enables me to create more content, improve the quality of my work, and ultimately make a positive impact on the community.
